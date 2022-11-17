@@ -32,6 +32,8 @@
 
 <h2>Screenshot</h2>
 
+![intense-refuge-67421 herokuapp com_](https://user-images.githubusercontent.com/98553537/202520535-0df3a1f7-0441-4905-8d21-bcdcd34619a6.png)
+
 <h2>Application Repository</h2>
 <p>Please click this link to navigate to deployed application repo: https://github.com/thundernunder/pwa-text-editor</p>
 
