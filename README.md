@@ -34,6 +34,7 @@
 
 <h2>Application Repository</h2>
 <p>Please click this link to navigate to deployed application repo: https://github.com/thundernunder/pwa-text-editor</p>
+<p>Here is the link to the deployed application: https://intense-refuge-67421.herokuapp.com/</p>
 
 <h2>Questions</h2>
 <p>Have questions about this project?
